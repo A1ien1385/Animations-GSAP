@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 960 560" style="enable-background:new 0 0 960 560;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#0078D2;}
+	.st1{fill:#003BDD;}
+	.st2{fill:#001E90;}
+	.st3{fill:url(#XMLID_12_);stroke:#000000;stroke-miterlimit:10;}
+	.st4{fill:url(#XMLID_13_);stroke:#000000;stroke-miterlimit:10;}
+	.st5{fill:url(#XMLID_14_);stroke:#000000;stroke-miterlimit:10;}
+	.st6{opacity:0.76;fill:#1A1A3D;stroke:#211133;stroke-miterlimit:10;}
+</style>
+<g id="Warstwa_1">
+</g>
+<g id="walls">
+	<rect id="XMLID_2_" class="st0" width="522" height="343"/>
+	<rect id="XMLID_3_" x="522" class="st1" width="438" height="351"/>
+	<polygon id="XMLID_1_" class="st2" points="960,560 0,560 0,324 522,252 960,324 	"/>
+</g>
+<g id="balls">
+	
+		<radialGradient id="XMLID_12_" cx="287" cy="239" r="62.3618" fx="271.4095" fy="239" gradientTransform="matrix(0.762 0.6476 -0.6476 0.762 223.7854 -130.9144)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0.1195" style="stop-color:#03FFA7"/>
+		<stop  offset="0.1355" style="stop-color:#04FDA2"/>
+		<stop  offset="0.2778" style="stop-color:#0CE36A"/>
+		<stop  offset="0.5253" style="stop-color:#1AB100"/>
+		<stop  offset="0.6051" style="stop-color:#1BA402"/>
+		<stop  offset="0.7535" style="stop-color:#1E8106"/>
+		<stop  offset="0.9259" style="stop-color:#22510C"/>
+	</radialGradient>
+	<circle id="XMLID_4_" class="st3" cx="290" cy="239" r="56"/>
+	<radialGradient id="XMLID_13_" cx="473" cy="170" r="65.307" fx="449.2751" fy="165.5853" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#FFF1B3"/>
+		<stop  offset="0.4293" style="stop-color:#FF8316"/>
+		<stop  offset="0.6106" style="stop-color:#DB7714"/>
+		<stop  offset="0.8805" style="stop-color:#9F6310"/>
+	</radialGradient>
+	<circle id="XMLID_5_" class="st4" cx="473" cy="170" r="69"/>
+	<radialGradient id="XMLID_14_" cx="684.5" cy="220.5" r="51.0539" fx="674.7059" fy="219.9137" gradientUnits="userSpaceOnUse">
+		<stop  offset="2.022946e-007" style="stop-color:#FFBAA8"/>
+		<stop  offset="0.5758" style="stop-color:#FF4DA5"/>
+		<stop  offset="0.6463" style="stop-color:#F2489E"/>
+		<stop  offset="0.7775" style="stop-color:#CF3B8B"/>
+		<stop  offset="0.9538" style="stop-color:#97266D"/>
+		<stop  offset="1" style="stop-color:#872064"/>
+	</radialGradient>
+	<circle id="XMLID_6_" class="st5" cx="688.5" cy="222.5" r="52.5"/>
+</g>
+<g id="shadows">
+	<ellipse id="XMLID_7_" class="st6" cx="290.5" cy="432.5" rx="63.5" ry="17.5"/>
+	<ellipse id="XMLID_8_" class="st6" cx="473" cy="483.5" rx="77" ry="23.5"/>
+	<ellipse id="XMLID_10_" class="st6" cx="688.5" cy="450.5" rx="63.5" ry="17.5"/>
+</g>
+</svg>
